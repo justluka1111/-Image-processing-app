@@ -1,6 +1,5 @@
 # Serverless image processing application
 This serverless application can be used to resize and compress images. It is triggered by new images being uploaded to a cloud storage bucket and uses AWS services such as S3, Lambda, and Step Functions to orchestrate the image processing workflow.
-
 The application works as follows:
 
 A new image is uploaded to the S3 bucket.
