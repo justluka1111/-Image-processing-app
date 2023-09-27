@@ -1,1 +1,1 @@
-# -Image-processing-app
+# - Serverless image processing application
